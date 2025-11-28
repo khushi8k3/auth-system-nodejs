@@ -46,9 +46,3 @@ A complete authentication and authorization system built with Node.js and Expres
 
 ---
 
-## 📦 Installation
-
-```bash
-git clone https://github.com/your-username/node-auth-boilerplate.git
-cd node-auth-boilerplate
-npm install
